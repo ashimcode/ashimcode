@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:071b2e,75:00d9ff,100:ff1b72&height=210&section=header&text=ASHIM%20JOHN&fontSize=52&fontColor=00f3ff&fontAlignY=36&animation=fadeIn&desc=CYBERSECURITY%20%2F%20SYSTEMS%20%2F%20THE%20GRID&descSize=16&descColor=ffffff&descAlignY=61" alt="Ashim John cyber grid banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:071b2e,75:00d9ff,100:ff1b72&height=210&section=header&text=ASHIM%20JOHN&fontSize=52&fontColor=00f3ff&fontAlignY=36&animation=fadeIn&desc=CYBERSECURITY%20%2F%20SYSTEMS%20%2F%20THE%20GRID&descSize=16&descColor=ffffff&descAlignY=61" alt="ashes cyber grid banner" />
 
 ![Grid status](https://img.shields.io/badge/GRID_STATUS-ONLINE-00f3ff?style=for-the-badge&logo=probot&logoColor=00f3ff&color=080b14)
 ![Focus](https://img.shields.io/badge/FOCUS-CYBER%20%7C%20INFRA%20%7C%20AUTOMATION-ff1b72?style=for-the-badge&logo=shield&logoColor=ffffff&color=080b14)
