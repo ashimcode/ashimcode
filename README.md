@@ -18,13 +18,6 @@
 
 </div>
 
-## ◈ Core Profile
-
-- **Name:** Ashim John
-- **Education:** Full-time SUNY Albany student in the combined 4+1 Cybersecurity and Cyber Risk Management program; expected graduation in 2027.
-- **Technical training:** Network cabling coursework and hands-on technical training at C-Tech.
-- **Professional background:** Former Apex Entertainment team member.
-
 ## ⚡ The Grid Tooling Matrix
 
 | Sector | Capabilities and tools |
@@ -87,13 +80,6 @@ Hands-on PlayStation 5 maintenance and teardown work, including analysis of inte
 - **Clear boundaries:** separate read, prepare, write, delete, and execute capabilities.
 - **Professional focus:** technical profiles emphasize cybersecurity, systems, cabling, and practical projects.
 - **Active ownership:** manage hosting, project operations, academic requirements, and department communications directly.
-
-## 📡 Current Signal
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&hide_border=true&bg_color=080b14&title_color=00f3ff&text_color=d7e7ff&icon_color=ff1b72)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcode&layout=compact&hide_border=true&bg_color=080b14&title_color=00f3ff&text_color=d7e7ff)
 
 </div>
 
