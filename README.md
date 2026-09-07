@@ -1,40 +1,112 @@
 <div align="center">
 
-  <!-- Tron Legacy Cyber Neon Header Image (SVG / GIF Stream Simulation) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00f3ff,100:050510&height=180&section=header&text=ASHIM%20JOHN&fontSize=50&fontColor=00f3ff&fontAlignY=38&animation=fadeIn&desc=SECURITY%20ANALYST%20|%20GRID%20OPERATOR&descSize=16&descColor=ff0055" alt="Tron Grid Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:071b2e,75:00d9ff,100:ff1b72&height=210&section=header&text=ASHIM%20JOHN&fontSize=52&fontColor=00f3ff&fontAlignY=36&animation=fadeIn&desc=CYBERSECURITY%20%2F%20SYSTEMS%20%2F%20THE%20GRID&descSize=16&descColor=ffffff&descAlignY=61" alt="Ashim John cyber grid banner" />
 
-  <p>
-    <img src="https://img.shields.io/badge/GRID__STATUS-ONLINE-00f3ff?style=for-the-badge&logo=letsencrypt&logoColor=00f3ff&color=050510" alt="Status">
-    <img src="https://img.shields.io/badge/IDENTITY_DISC-SECURED-ff0055?style=for-the-badge&logo=cyberdefenders&logoColor=ff0055&color=050510" alt="Disc">
-  </p>
+![Grid status](https://img.shields.io/badge/GRID_STATUS-ONLINE-00f3ff?style=for-the-badge&logo=probot&logoColor=00f3ff&color=080b14)
+![Focus](https://img.shields.io/badge/FOCUS-CYBER%20%7C%20INFRA%20%7C%20AUTOMATION-ff1b72?style=for-the-badge&logo=shield&logoColor=ffffff&color=080b14)
+![Build mode](https://img.shields.io/badge/BUILD_MODE-HANDS--ON-7c5cff?style=for-the-badge&logo=github&logoColor=ffffff&color=080b14)
+
+<br />
+
+`SECURITY ANALYST IN TRAINING` · `GRID OPERATOR` · `INFRASTRUCTURE BUILDER`
 
 </div>
 
----
+<div align="center">
 
-### ⚡ THE GRID // System Tooling Matrix
+> I build practical cybersecurity environments, investigate the signals they produce, and turn complex systems into something observable, testable, and secure.
 
-| Sector | Core Grid Capabilities |
+</div>
+
+## ◈ Core Profile
+
+- **Name:** Ashim John
+- **Education:** Full-time SUNY Albany student in the combined 4+1 Cybersecurity and Cyber Risk Management program; expected graduation in 2027.
+- **Technical training:** Network cabling coursework and hands-on technical training at C-Tech.
+- **Professional background:** Former Apex Entertainment team member.
+
+## ⚡ The Grid Tooling Matrix
+
+| Sector | Capabilities and tools |
 | :--- | :--- |
-| **SIEM & Telemetry** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=flat-square&logo=elasticsearch&logoColor=00f3ff) ![Kibana](https://img.shields.io/badge/Kibana-000000?style=flat-square&logo=kibana&logoColor=00f3ff) ![Filebeat](https://img.shields.io/badge/Filebeat-000000?style=flat-square&logo=elastic&logoColor=00f3ff) |
-| **Network & Packets** | ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00f3ff) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-050510?style=flat-square&color=ff0055) ![DNS Analysis](https://img.shields.io/badge/DNS-050510?style=flat-square&color=00f3ff) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00f3ff) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00f3ff) ![UTM Virtualization](https://img.shields.io/badge/UTM-050510?style=flat-square&color=ff0055) |
-| **Scripting & Ops** | ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00f3ff) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00f3ff) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff0055) |
+| **SIEM and telemetry** | Elasticsearch · Kibana · Filebeat · log collection · alert triage |
+| **Network defense** | Wireshark · packet capture analysis · TCP/IP · DNS · HTTP investigation |
+| **Infrastructure** | Docker · Linux · Hyper-V · VBS · Credential Guard · isolated sandboxes |
+| **Automation and code** | Python · Bash · TypeScript · Node.js · Git · SQLite |
+| **Memory and agents** | Graphiti · FalkorDB · Ollama · OpenClaw · permission-aware workflows |
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,typescript,nodejs,docker,linux,git,sqlite" alt="Python Bash TypeScript Node Docker Linux Git SQLite" />
+</p>
 
-### 🛡️ Executed System Simulations & Investigations
+## 🛡️ Executed Simulations and Investigations
 
-* **Enterprise Cyber Range & Threat Emulation**
-  * *Architecture:* Provisioned a software-defined corporate network layout inside isolated **Docker** containers backed by an **Elastic SIEM** pipeline.
-  * *Execution:* Deployed an automated Python "Chaos Engine" script to mimic threat actor tactics (reconnaissance, persistence, command execution) and validated detection alerts inside **Kibana**.
+### Enterprise cyber range and SIEM
 
-* **Malware Traffic & PCAP Triage**
-  * *Investigation:* Analyzed raw packet captures in **Wireshark** to isolate compromised host nodes (`10.2.28.88`).
-  * *Attribution:* Tracked persistent HTTP `POST` beaconing loops targeting `/fakeurl.htm` to identify and map the **NetSupport Manager RAT** command structure.
+- Build simulated enterprise networks inside isolated Docker containers.
+- Configure Elastic infrastructure with Filebeat, Elasticsearch, and Kibana.
+- Generate controlled activity with Python automation and validate the resulting detections.
 
----
+### Malware traffic and PCAP triage
+
+- Inspect packet captures in Wireshark to isolate suspicious hosts and traffic patterns.
+- Trace HTTP beaconing and map observable command-and-control behavior.
+- Translate packet-level evidence into clear investigation notes and detection ideas.
+
+### System hardening and virtualization
+
+- Evaluate Virtualization-Based Security and Credential Guard.
+- Deploy Hyper-V sandbox environments for malware analysis and operational security.
+- Prefer isolated, repeatable test environments before changing a live system.
+
+## ◇ Infrastructure Outside the Screen
+
+- Install and manage long-run Cat 6 Ethernet cabling, including 100-foot runs.
+- Configure TP-Link and MadPower extenders as access points with wired backhaul.
+- Diagnose the boundary between physical cabling, wireless topology, and endpoint behavior.
+
+## 🚧 Current Builds
+
+### Atlas personal AI brain
+
+A local-first agent platform that combines structured behavior events, temporal Graphiti memory, FalkorDB, local Ollama inference, explicit permissions, human approvals, and a visual system graph. Atlas is designed to learn useful routines without confusing confidence or repeated approval with authority.
+
+### Browser-based car mechanic tycoon
+
+A collaborative browser game built with Rif, using node-based design maps to model systems, progression, and player decisions.
+
+### Hardware analysis
+
+Hands-on PlayStation 5 maintenance and teardown work, including analysis of internal air-pressure sensor mechanics in compact electronics.
+
+## 🧭 Operating Principles
+
+- **Infrastructure first:** understand the environment before automating it.
+- **Evidence over assumption:** prefer logs, packets, hashes, test results, and reproducible observations.
+- **Isolation by default:** use containers, virtual machines, and sandboxes for risky experiments.
+- **Clear boundaries:** separate read, prepare, write, delete, and execute capabilities.
+- **Professional focus:** technical profiles emphasize cybersecurity, systems, cabling, and practical projects.
+- **Active ownership:** manage hosting, project operations, academic requirements, and department communications directly.
+
+## 📡 Current Signal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=050510&title_color=00f3ff&text_color=ffffff&icon_color=ff0055" alt="Grid Stats">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&hide_border=true&bg_color=080b14&title_color=00f3ff&text_color=d7e7ff&icon_color=ff1b72)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimcode&layout=compact&hide_border=true&bg_color=080b14&title_color=00f3ff&text_color=d7e7ff)
+
+</div>
+
+<div align="center">
+
+`╔════════════════════════════════════════════════════════════╗`  
+`║  OBSERVE  →  MODEL  →  TEST  →  HARDEN  →  BUILD AGAIN  ║`  
+`╚════════════════════════════════════════════════════════════╝`
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1b72,45:7c5cff,100:050510&height=110&section=footer" alt="Neon grid footer" />
+
 </div>
