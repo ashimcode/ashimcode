@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Terminal Typing Effect for Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=ASHIM+JOHN;SYSTEM+DEFENDER;GRID_OPERATOR_ONLINE" alt="Animated Name Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=THIS;IS;ASH." alt="Animated Name Typing" />
 
 </div>
 
