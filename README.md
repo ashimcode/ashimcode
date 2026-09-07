@@ -1,38 +1,40 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/STATUS-DEFENDER%20ONLINE-green?style=for-the-badge&logo=shield&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-Active-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Role">
-  
-  <h3>🛡️ Security Analyst & Graduate Security Researcher</h3>
-  <p><em>Bridging physical hardware operations, enterprise network telemetry, and automated threat detection.</em></p>
+  <!-- Tron Legacy Cyber Neon Header Image (SVG / GIF Stream Simulation) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00f3ff,100:050510&height=180&section=header&text=ASHIM%20JOHN&fontSize=50&fontColor=00f3ff&fontAlignY=38&animation=fadeIn&desc=SECURITY%20ANALYST%20|%20GRID%20OPERATOR&descSize=16&descColor=ff0055" alt="Tron Grid Banner" />
+
+  <p>
+    <img src="https://img.shields.io/badge/GRID__STATUS-ONLINE-00f3ff?style=for-the-badge&logo=letsencrypt&logoColor=00f3ff&color=050510" alt="Status">
+    <img src="https://img.shields.io/badge/IDENTITY_DISC-SECURED-ff0055?style=for-the-badge&logo=cyberdefenders&logoColor=ff0055&color=050510" alt="Disc">
+  </p>
 
 </div>
 
 ---
 
-### 💻 Technical Infrastructure & Tooling Matrix
+### ⚡ THE GRID // System Tooling Matrix
 
-| Category | Tools & Technologies |
+| Sector | Core Grid Capabilities |
 | :--- | :--- |
-| **SIEM & Detection** | ![Elastic](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=elastic&logoColor=white) |
-| **Network & Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIp-orange?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-purple?style=flat-square) |
-| **Systems & Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![UTM](https://img.shields.io/badge/Virtualization-red?style=flat-square) |
-| **Languages & Git** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **SIEM & Telemetry** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=flat-square&logo=elasticsearch&logoColor=00f3ff) ![Kibana](https://img.shields.io/badge/Kibana-000000?style=flat-square&logo=kibana&logoColor=00f3ff) ![Filebeat](https://img.shields.io/badge/Filebeat-000000?style=flat-square&logo=elastic&logoColor=00f3ff) |
+| **Network & Packets** | ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00f3ff) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-050510?style=flat-square&color=ff0055) ![DNS Analysis](https://img.shields.io/badge/DNS-050510?style=flat-square&color=00f3ff) |
+| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00f3ff) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00f3ff) ![UTM Virtualization](https://img.shields.io/badge/UTM-050510?style=flat-square&color=ff0055) |
+| **Scripting & Ops** | ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00f3ff) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00f3ff) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff0055) |
 
 ---
 
-### 🚀 Featured Security Projects
+### 🛡️ Executed System Simulations & Investigations
 
 * **Enterprise Cyber Range & Threat Emulation**
-  * *Architecture:* Built a containerized software-defined corporate network using **Docker** backed by an **Elastic SIEM** pipeline.
-  * *Execution:* Developed a custom Python "Chaos Engine" script to simulate adversary tactics (reconnaissance, command execution, data exfiltration) and validated detection rules via **Kibana** dashboards.
+  * *Architecture:* Provisioned a software-defined corporate network layout inside isolated **Docker** containers backed by an **Elastic SIEM** pipeline.
+  * *Execution:* Deployed an automated Python "Chaos Engine" script to mimic threat actor tactics (reconnaissance, persistence, command execution) and validated detection alerts inside **Kibana**.
 
-* **Malware Network Traffic & PCAP Analysis Lab**
-  * *Investigation:* Performed deep-packet inspection in **Wireshark** on captured enterprise traffic to isolate infected endpoints (`10.2.28.88`).
-  * *Attribution:* Traced malicious HTTP `POST` C2 beaconing patterns (`/fakeurl.htm`) to map outbound traffic and identify the **NetSupport Manager RAT**.
+* **Malware Traffic & PCAP Triage**
+  * *Investigation:* Analyzed raw packet captures in **Wireshark** to isolate compromised host nodes (`10.2.28.88`).
+  * *Attribution:* Tracked persistent HTTP `POST` beaconing loops targeting `/fakeurl.htm` to identify and map the **NetSupport Manager RAT** command structure.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=050510&title_color=00f3ff&text_color=ffffff&icon_color=ff0055" alt="Grid Stats">
 </div>
