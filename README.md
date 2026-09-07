@@ -1,27 +1,29 @@
 <div align="center">
 
-  <!-- Retro-Futuristic Cyan/Teal Grid Horizon Banner matching the pixel art style -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05121a,50:0a2a3a,100:02080d&height=180&section=header&text=ASHIM%20JOHN&fontSize=46&fontColor=4df4ff&fontAlignY=40&animation=scaleIn&desc=VIRTUAL%20ARCHITECT%20&amp;%20SYSTEM%20DEFENDER&descSize=14&descColor=8be9fd" alt="Tron Grid Horizon" />
+  <!-- Animated Terminal Typing Effect for Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=ASHIM+JOHN;SYSTEM+DEFENDER;GRID_OPERATOR_ONLINE" alt="Animated Name Typing" />
 
-  <p>
-    <img src="https://img.shields.io/badge/GRID__STATUS-ONLINE-0a2a3a?style=flat&logo=letsencrypt&logoColor=4df4ff&color=02080d" alt="Status">
-    <img src="https://img.shields.io/badge/SECURE__DISC-INITIALIZED-0a2a3a?style=flat&logo=cyberdefenders&logoColor=8be9fd&color=02080d" alt="Disc">
-  </p>
-
+```text
++===================================================+
+|  [ SYSTEM STATUS: ONLINE ]  [ DISC: SECURED ]     |
++===================================================+
+```
 </div>
 
 ---
 
-### **System Architecture & Operational Tooling**
+### **[ 01 ] SYSTEM ARCHITECTURE & TOOLING**
 
-* **Telemetry & SIEM Platforms:** Elasticsearch, Kibana, Filebeat
-* **Network & Packet Analysis:** Wireshark, TCP/IP, DNS Analysis
-* **Virtualization & Infrastructure:** Linux (Ubuntu/UTM), Docker, Hardware Diagnostics
-* **Scripting & Version Control:** Python, Bash, Git
+```yaml
+telemetry & siem : Elasticsearch, Kibana, Filebeat
+network analysis : Wireshark, TCP/IP, DNS Inspection
+systems & infra  : Linux (Ubuntu/UTM), Docker, Hardware Ops, C-Tech Network Cabling
+scripting & git  : Python, Bash, Git Workflow
+```
 
 ---
 
-### **Executed System Simulations & Investigations**
+### **[ 02 ] EXECUTED SYSTEM INVESTIGATIONS**
 
 * **Enterprise Cyber Range & Threat Emulation**
   * *Architecture:* Provisioned a software-defined corporate network layout inside isolated **Docker** containers backed by an **Elastic SIEM** pipeline.
@@ -34,5 +36,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=nord&hide_border=true&bg_color=02080d&title_color=4df4ff&text_color=e0def4&icon_color=8be9fd" alt="Grid Stats">
+
+```text
++---------------------------------------------------+
+|               GRID TELEMETRY METRICS              |
++---------------------------------------------------+
+```
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=02080d&title_color=00f3ff&text_color=e0def4&icon_color=00f3ff" alt="Grid Stats">
 </div>
