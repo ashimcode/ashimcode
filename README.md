@@ -3,11 +3,6 @@
   <!-- Animated Terminal Typing Effect for Name -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=ASHIM+JOHN;SYSTEM+DEFENDER;GRID_OPERATOR_ONLINE" alt="Animated Name Typing" />
 
-```text
-+===================================================+
-|  [ SYSTEM STATUS: ONLINE ]  [ DISC: SECURED ]     |
-+===================================================+
-```
 </div>
 
 ---
@@ -40,12 +35,6 @@
 </div>
 
 <div align="center">
-
-```text
-+---------------------------------------------------+
-|               GRID TELEMETRY METRICS              |
-+---------------------------------------------------+
-```
 
   <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=02080d&title_color=00f3ff&text_color=e0def4&icon_color=00f3ff" alt="Grid Stats">
 </div>
