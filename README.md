@@ -33,8 +33,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats">
 </div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimcode&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=02080d&title_color=00f3ff&text_color=e0def4&icon_color=00f3ff" alt="Grid Stats">
-</div>
