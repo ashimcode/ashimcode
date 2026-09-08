@@ -66,7 +66,31 @@ A local-first agent platform that combines structured behavior events, temporal 
 
 ### Browser-based car mechanic tycoon
 
-A collaborative browser game built with Rif, using node-based design maps to model systems, progression, and player decisions.
+A collaborative browser game built with Rif, using node-based design maps to model systems, progression, and player decisions. The current CarMechanicOS prototype combines a desktop-style operating system shell with repair orders, inventory, logistics, global locations, factions, player progression, and risk systems.
+
+#### CarMechanicOS toolchain
+
+| Layer | Tools used | How it connects |
+| :--- | :--- | :--- |
+| **Game client** | HTML5 · Vanilla CSS · ES6+ JavaScript | Runs the desktop shell, simulation engines, windows, maps, CRM, inventory, and save/load state in the browser. |
+| **Local runtime** | Node.js static server · Windows batch launchers | Serves the browser game locally on port `5501` for repeatable development. |
+| **Public delivery** | Cloudflare Tunnel · `carmechanicos.com` | Routes the public HTTPS hostname to the local game server at `127.0.0.1:5501`. |
+| **Cloud persistence** | Supabase · REST API · PostgreSQL · Row Level Security | Optional `backend.js` adapter upserts player snapshots into `public.player_saves`; localStorage remains the fallback. |
+| **Source and delivery** | Git · GitHub | Stores the game source, documentation, screenshots, launch scripts, and architecture history. |
+| **Future intelligence boundary** | Atlas · Graphiti · FalkorDB · OpenClaw · Ollama | Can observe project status and structured events through explicit interfaces without receiving private game or hosting credentials. |
+
+```text
+CarMechanicOS browser
+  ├─ localStorage ─────────────── local save fallback
+  └─ backend.js ── HTTPS ─────── Supabase player_saves
+
+Cloudflare Tunnel ─────────────── carmechanicos.com → localhost:5501
+
+Git/GitHub ───────────────────── source, docs, screenshots, release history
+Atlas / Graphiti / FalkorDB ─── optional structured memory and project context
+```
+
+Supabase is prepared but intentionally requires a browser-safe Publishable/anon key in the ignored local `backend-config.js`. Secret and service-role keys are never placed in the frontend or committed to Git.
 
 ### Hardware analysis
 
