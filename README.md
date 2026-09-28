@@ -60,6 +60,13 @@
 
 ## 🚧 Current Builds
 
+### Public cybersecurity portfolio
+
+- [CYBR Projects](https://github.com/ashimcode/cybr-projects) — a sequential portfolio of home-SIEM investigation, network defense, incident response, cloud security, detection engineering, and security automation projects. Each project moves from architecture and controlled execution to verification, sanitized evidence, and an interviewer-ready summary.
+- [Enterprise LAN Segmentation and Wireless Bridging Lab](https://github.com/ashimcode/ethernet-switching-wireless-bridging-lab) — a GNS3 proof of concept for VLAN isolation, 802.1Q trunking, wireless Layer 2 bridging, ARP and ICMP analysis, and future firewall enforcement. Topology validation and packet evidence are still pending.
+
+Public claims follow the same workflow as the projects: **Build → Verify → Capture evidence → Sanitize → Review → Publish**.
+
 ### Atlas personal AI brain
 
 A local-first agent platform that combines structured behavior events, temporal Graphiti memory, FalkorDB, local Ollama inference, explicit permissions, human approvals, and a visual system graph. Atlas is designed to learn useful routines without confusing confidence or repeated approval with authority.
