@@ -22,34 +22,34 @@
 
 | Sector | Capabilities and tools |
 | :--- | :--- |
-| **SIEM and telemetry** | Elasticsearch · Kibana · Filebeat · log collection · alert triage |
-| **Network defense** | Wireshark · packet capture analysis · TCP/IP · DNS · HTTP investigation |
-| **Infrastructure** | Docker · Linux · Hyper-V · VBS · Credential Guard · isolated sandboxes |
-| **Automation and code** | Python · Bash · TypeScript · Node.js · Git · SQLite |
+| **SIEM and telemetry** | Splunk HEC boundary validation · log collection · detection documentation · Graphiti memory |
+| **Network defense** | Wireshark · packet capture analysis · TCP/IP · VLANs · ARP · ICMP |
+| **Infrastructure** | Docker · Linux · WSL2 · Hyper-V host boundary · isolated-lab planning |
+| **Automation and code** | Python · Bash · TypeScript · Node.js · Git · GitHub |
 | **Memory and agents** | Graphiti · FalkorDB · Ollama · OpenClaw · permission-aware workflows |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,typescript,nodejs,docker,linux,git,sqlite" alt="Python Bash TypeScript Node Docker Linux Git SQLite" />
+  <img src="https://skillicons.dev/icons?i=python,bash,typescript,nodejs,docker,linux,git" alt="Python Bash TypeScript Node Docker Linux Git" />
 </p>
 
 ## 🛡️ Executed Simulations and Investigations
 
-### Enterprise cyber range and SIEM
+### Local SIEM boundary and detection engineering
 
-- Build simulated enterprise networks inside isolated Docker containers.
-- Configure Elastic infrastructure with Filebeat, Elasticsearch, and Kibana.
-- Generate controlled activity with Python automation and validate the resulting detections.
+- Document a local Home SIEM architecture with explicit data boundaries and safe evidence handling.
+- Verify a loopback Splunk HEC receiver with a labeled synthetic event; the Windows/Sysmon endpoint path remains an open prerequisite.
+- Test a narrow suspicious-PowerShell detection against positive and negative synthetic fixtures before live telemetry validation.
 
-### Malware traffic and PCAP triage
+### Network segmentation and packet analysis
 
-- Inspect packet captures in Wireshark to isolate suspicious hosts and traffic patterns.
-- Trace HTTP beaconing and map observable command-and-control behavior.
-- Translate packet-level evidence into clear investigation notes and detection ideas.
+- Inspect sanitized packet captures to validate 802.1Q VLAN tags, ARP behavior, and same-VLAN ICMP reachability.
+- Troubleshoot a Guest wireless bridge VLAN mismatch and verify the minimal correction in a disposable GNS3 copy.
+- Translate packet-level evidence into clear troubleshooting notes, hardening recommendations, and interview explanations.
 
-### System hardening and virtualization
+### System hardening and isolated-lab design
 
-- Evaluate Virtualization-Based Security and Credential Guard.
-- Deploy Hyper-V sandbox environments for malware analysis and operational security.
+- Apply public-repository hygiene checks, secret/path scanning, and sanitized evidence review.
+- Document virtualization and telemetry boundaries before introducing endpoint collection or simulations.
 - Prefer isolated, repeatable test environments before changing a live system.
 
 ## ◇ Infrastructure Outside the Screen
